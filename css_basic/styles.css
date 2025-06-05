@@ -28,3 +28,17 @@ header, footer {
   padding: 1rem;
   text-align: center;
 }
+
+header {
+  background-color: #b5c7db;
+  color: white;
+  padding: 1rem;
+  font-family: 'Arial', sans-serif;
+}
+
+.logo {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-right: 1rem;
+  text-align: center;
+}
